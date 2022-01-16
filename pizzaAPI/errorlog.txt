@@ -1,0 +1,7 @@
+#8 61.02   error: command '/usr/bin/gcc' failed with exit code 1
+#8 61.02   ----------------------------------------
+#8 61.02   ERROR: Failed building wheel for backports.zoneinfo
+#8 61.02 Failed to build backports.zoneinfo
+#8 61.02 ERROR: Could not build wheels for backports.zoneinfo which use PEP 517 and cannot be installed directly
+executor failed running [/bin/sh -c pip install -r requirements.txt]: exit code: 1
+ERROR: Service 'web' failed to build : Build failed
